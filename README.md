@@ -1,5 +1,5 @@
 # Bot_discord
-um bot para discord meio rustico, hosteado em windows
+um bot para discord em desenvolvimento, hosteado em windows
 
 repositorio do codigo de audio
 
