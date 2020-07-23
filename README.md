@@ -21,7 +21,7 @@ Um bot para discord em desenvolvimento, hosteado em windows.
   - Com mecanismo de busca ou a partir de um [URL]
   - Mecanismo de fila
    
-- Interação com um pseudo-banco de dados por meio de uma json file local (totalmente não otimizado)
+- Interação com Google spreadsheet utilizado como um pseudo banco de dados
 
 ## Futuro:
 
