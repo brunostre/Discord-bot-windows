@@ -1,4 +1,4 @@
-# Bot_discord
+# Bot_discord (DEPRECATED)
 Um bot para discord em desenvolvimento, hosteado em windows.
 
 ## Requerimentos:
